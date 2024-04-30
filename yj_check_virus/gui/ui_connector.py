@@ -1,6 +1,5 @@
 # coding:utf-8
 
-
 from .pyside import *
 import maya.OpenMayaUI as omui
 from maya import cmds
